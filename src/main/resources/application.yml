@@ -4,9 +4,9 @@ spring:
   # DataSource Config
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/wuapi
-    username: root
-    password: wf980321
+    url: jdbc:mysql://localhost:3306/temp
+    username: temp
+    password: temp
   mvc:
     pathmatch:
       matching-strategy: ANT_PATH_MATCHER
